@@ -25,12 +25,9 @@
 ## 🌟 Projects
 - [3D-Page](https://github.com/SuperHackz/3D-Page): A simple bookmarklet that gives pages a cool look - it makes them 3D!
 - [adblock-bookmarklet](https://github.com/SuperHackz/adblock-bookmarklet): A simple bookmarklet that makes ads disappear!
-- [ai-chatbot](https://github.com/SuperHackz/ai-chatbot): An AI-powered chatbot.
 - [blooket-cheats](https://github.com/SuperHackz/blooket-cheats): Multiple game hacks to use so the game becomes easier to play!
 - [Edit-Page](https://github.com/SuperHackz/Edit-Page): A simple bookmarklet that lets you edit the content on a page.
 - [fortnite-cheats](https://github.com/SuperHackz/fortnite-cheats): FORTNITE All in One Cheat - Aimbot, ESP, Ragebot hack, Skinchanger & more!
-- [next.js-proxy](https://github.com/SuperHackz/next.js-proxy): A proxy server built with Next.js.
-- [polaris](https://github.com/SuperHackz/polaris): A project showcasing the Polaris design system.
 - [screen-glitch](https://github.com/SuperHackz/screen-glitch): A bookmarklet I use to prank teachers...
 - [SuperGames](https://github.com/SuperHackz/SuperGames): An unblocked games site.
 
@@ -38,6 +35,4 @@
 - 🌐 Website: [superhackz.webnode.co.uk](https://superhackz.webnode.co.uk)
   
 ## ⚡ Fun Fact
-- I love experimenting with new technologies and building cool projects during my free time!
-
-![Profile Footer](https://github.com/SuperHackz/SuperHackz/raw/main/profile-footer.png)
+- I love experimenting with new technologies and building cool projects during my 
