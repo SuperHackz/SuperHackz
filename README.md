@@ -29,7 +29,7 @@
 
 ## 📫 How to reach me
 - 🌐 Website: [superhackz.webnode.co.uk](https://superhackz.webnode.co.uk)
-- Mail: superhackzgithub@gmail.com
+- Mail: [superhackzgithub@gmail.com](mailto:superhackzgithub@gmail.com)
   
 ## ⚡ Fun Fact
 - I love experimenting with new technologies and building cool projects during my free time.
