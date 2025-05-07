@@ -5,7 +5,7 @@
 ## 🧑‍💻 About Me
 - 💻 I'm a passionate developer with a knack for creating innovative projects.
 - 📚 I love learning new technologies and improving my skills.
-- 🌐 I enjoy working on web development and open-source projects.
+- 🌐 I enjoy working on web development and TypeScript. I'm best at JavaScript.
 
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -19,5 +19,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperHackz&layout=compact&theme=dark)
 
 ## 📫 How to reach me
-- 🌐 Website: [superhackz.webnode.co.uk](https://superhackz.webnode.co.uk)
 - Mail: [superhackzgithub@gmail.com](mailto:superhackzgithub@gmail.com)
